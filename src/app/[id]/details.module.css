@@ -1,0 +1,22 @@
+.podnadpis{
+    color: #808080FF;
+    display: block;
+    font-size: 16px;
+}
+.containerB {
+    column-count: 2;
+    column-gap: 20px;
+}
+.containerB p{
+    break-inside: avoid;
+}
+#firstP{
+    margin-top: 0;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.main div{
+    width: 300px;
+}

@@ -1,0 +1,41 @@
+.card{
+    border: #EAECEE solid 1px;
+    max-width: 700px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.card:hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+#locationIcon{
+    height: 16px;
+    width: 17px;
+    margin-right: 10px;
+}
+#nadpis{
+    font-size: 20px;
+}
+.flagIcon{
+    width: 50px;
+    height: 50px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border: #EAECEE solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+}
+.textVlevo{
+    text-align: left;
+    width: 100%;
+}
+.txt{
+    margin: 0;
+    font-weight: bold;
+}
