@@ -17,7 +17,7 @@ export default async function Home() {
   return (
       <>
           <header>
-              <h1 className={styles.h1}>Country Statistics (commit deploy#2)</h1>
+              <h1 className={styles.h1}>Country Statistics (commit deploy#3)</h1>
               <h2 className={styles.h2}>Here are the statistics for some countries.</h2>
           </header>
         <main className={styles.main}>
